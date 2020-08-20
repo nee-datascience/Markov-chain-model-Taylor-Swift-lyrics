@@ -9,7 +9,7 @@ Created on Wed Aug 19 16:18:54 2020
 import numpy as np
 
 # Load set from input file
-input = open('D:/python/lyrics/taylor_swift/myfav2.txt', encoding='utf8').read()
+input = open('input.txt', encoding='utf8').read()
 #print(input)
 
 # Split data into words
